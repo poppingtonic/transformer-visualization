@@ -1,0 +1,4 @@
+outs:
+- md5: 893d25c60ef7395cb0cedf6796aee903
+  size: 101600159
+  path: ioi_200k_baba_abba.pkl
