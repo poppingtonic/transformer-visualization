@@ -1,0 +1,4 @@
+outs:
+- md5: e18f95d2d452ef45a8dafbda3486a14e
+  size: 5835876
+  path: mecha_ioi_200k.parquet
