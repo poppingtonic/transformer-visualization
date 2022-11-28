@@ -10,9 +10,9 @@ So far, we have:
 #### Output
 1. Applied some tools and ideas in the demo towards observing induction heads in [`SOLU-8l-old`](https://transformer-circuits.pub/2022/solu/index.html), also trained by Neel.
 1. Generated IOI-style datasets:
-    - pkl_ioi_data.pkl is 100000 rows of IOI sentences in , most of which use multi-token terms.
+    - pkl_ioi_data.pkl is 100000 rows of IOI sentences from `ABBA` templates, most of which use multi-token terms.
     - https://huggingface.co/datasets/fahamu/ioi
-        + mecha_ioi_26m.parquet is 26,010,000 rows of IOI sentences
-        + mecha_ioi_200k.parquet is 200,000 rows of IOI sentences
+        + mecha_ioi_26m.parquet is 26,010,000 rows of IOI sentences, mixing ABBA and BABA templates
+        + mecha_ioi_200k.parquet is 200,000 rows of IOI sentences, mixing ABBA and BABA templates
 
 All inspired by the paper _Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small_, from Redwood Research. We are not affiliated with Redwood Research, and release this dataset to contribute to the collective research effort behind understanding how Transformer language models perform this task. 
