@@ -16,3 +16,5 @@ So far, we have:
         + mecha_ioi_200k.parquet is 200,000 rows of IOI sentences, mixing ABBA and BABA templates
 
 All inspired by the paper _Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small_, from Redwood Research. We are not affiliated with Redwood Research, and release this dataset to contribute to the collective research effort behind understanding how Transformer language models perform this task. 
+
+[### New: Try Digest beta, my new startup's document understanding service https://digest.fahamuai.com]
