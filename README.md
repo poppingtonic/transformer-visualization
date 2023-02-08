@@ -1,4 +1,6 @@
 # Learning Mechanistic Interpretability on Transformers with EasyTransformer
+Brian Muhia
+Fahamu, Inc
 
 This repository houses the beginnings of a tutorial on mechanistic interpretability for Transformer language models.
 
