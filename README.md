@@ -23,4 +23,6 @@ So far, we have:
 
 All inspired by the paper _Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small_, from Redwood Research. We are not affiliated with Redwood Research, and release this dataset to contribute to the collective research effort behind understanding how Transformer language models perform this task. 
 
-### New: Try Digest beta, my new startup's document understanding service https://digest.fahamuai.com
+### New: To help us fund further work in this area, try Digest, my new document understanding service. We are launching on Pi Day. 
+
+https://digest.fahamuai.com
