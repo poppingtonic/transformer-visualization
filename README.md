@@ -1,4 +1,4 @@
-# Learning Mechanistic Interpretability on Transformers with EasyTransformer
+# Learning Mechanistic Interpretability on Transformers with EasyTransformer (now TransformerLens)
 
 
 _by Brian Muhia_
@@ -22,6 +22,11 @@ So far, we have:
         + mecha_ioi_200k.parquet is 200,000 rows of IOI sentences, mixing ABBA and BABA templates
 
 All inspired by the paper _Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small_, from Redwood Research. We are not affiliated with Redwood Research, and release this dataset to contribute to the collective research effort behind understanding how Transformer language models perform this task. 
+
+With thanks and Acknowledgements:
+
+Esben Kran - for hosting the Interpretability Jam, which accelerated this work.
+Neel Nanda - for publishing TransformerLens and making public his research process. Wonderful gifts!
 
 ### New: To help us fund further work in this area, try Digest, my new document understanding service. We are launching on Pi Day. 
 
