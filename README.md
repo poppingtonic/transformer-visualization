@@ -23,10 +23,10 @@ So far, we have:
 
 All inspired by the paper _Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small_, from Redwood Research. We are not affiliated with Redwood Research, and release this dataset to contribute to the collective research effort behind understanding how Transformer language models perform this task. 
 
-With thanks and Acknowledgements:
+###### With thanks and Acknowledgements:
 
-Esben Kran - for hosting the Interpretability Jam, which accelerated this work.
-Neel Nanda - for publishing TransformerLens and making public his research process. Wonderful gifts!
+- Esben Kran - for hosting the Interpretability Jam, which accelerated this work.
+- Neel Nanda - for publishing TransformerLens and making public his research process. Wonderful gifts!
 
 ### New: To help us fund further work in this area, try Digest, my new document understanding service. We are launching on Pi Day. 
 
