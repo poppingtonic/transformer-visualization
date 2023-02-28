@@ -25,7 +25,7 @@ All inspired by the paper _Interpretability in the Wild: a Circuit for Indirect 
 
 ###### With thanks and Acknowledgements:
 
-- Esben Kran - for hosting the Interpretability Jam, which accelerated this work.
+- Esben Kran, Sabrina Zaki - for hosting the Interpretability Jam, which accelerated this work.
 - Neel Nanda - for publishing TransformerLens and making public his research process. Wonderful gifts!
 
 ### New: To help us fund further work in this area, try Digest, my new document understanding service. We are launching on Pi Day. 
