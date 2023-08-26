@@ -1,4 +1,5 @@
 # Answer Set Programming for Automated Verification of Intent Consistency
+_Brian Muhia, August 2023_
 
 The causal influence diagrams introduced [here](https://docs.google.com/document/d/160Yw_iuvztB6CTT9Osj5wC0sOrEKjfaGkkeeYuwQf4Y/edit?usp=sharing), and the accompanied
 reasoning that favours certain diagrams over others based on links to
@@ -7,9 +8,9 @@ check if a diagram is correct or wrong. We call this property "intent
 consistency". Here we introduce three simple rules written in the
 Answer-Set Programming (ASP) formalism that 
 
-(1) find paths between any two nodes X and Y, then check if 
-(2) a path exists from the input node "I" to any decision node, and 
-(3) fails if there is no direct link from the node "I" to any decision node. 
+1. find paths between any two nodes X and Y, then check if
+1. a path exists from the input node "I" to any decision node, and 
+1. fails if there is no direct link from the node "I" to any decision node. 
 
 These rules encode our expectations and intuitions, and let us describe
 a framework for automatically deciding if a diagram satisfies them. We
