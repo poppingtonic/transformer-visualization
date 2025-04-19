@@ -17,7 +17,7 @@ a framework for automatically deciding if a diagram satisfies them. We
 call these rules "intent consistency models" (ICM), after
 [https://doi.org/10.1017/S1471068410000554].
 
-
+[Prompt](https://platform.openai.com/playground/prompts?preset=preset-AA5gXvWChqu9skTJ5jAiCp51)
 ```
 For a pycid CID:
 %*
